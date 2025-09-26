@@ -23,6 +23,3 @@ I'm passionate about extracting meaningful insights from data and building intel
 
 ## 📫 Let's Connect!
 Feel free to explore my repositories to see my journey in data science and machine learning. Each project represents a step forward in my learning process!
-
----
-*"Data is the new oil, but insights are the refined fuel."* ⚡
