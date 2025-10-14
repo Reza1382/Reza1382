@@ -1,7 +1,7 @@
 
 # Hi there! 👋 I'm Reza
 
-💡 **Data Mining & Machine Learning Practitioner**
+💡 **Data Mining & Machine Learning Explorer**
 
 I enjoy working with data — finding insights, learning from patterns, and building intelligent systems using machine learning.
 Right now, I’m focused on improving my skills through practical, hands-on projects.
