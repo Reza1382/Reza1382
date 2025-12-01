@@ -32,4 +32,5 @@ Check out my repositories to see my learning journey in data science and machine
 Each project marks a new step in my growth!
 
 🔗 My LinkedIn address:
+
 https://www.linkedin.com/in/reza-kazemi-21879a325?trk=contact-info
